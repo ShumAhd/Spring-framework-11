@@ -34,3 +34,14 @@
 `application.properties:` Файл настроек приложения.
 
 `pom.xml:` Файл конфигурации Maven.
+
+# Prometheus
+![img1](https://github.com/ShumAhd/Spring-framework-11/blob/main/img/2024-02-23_180708.jpg)
+
+![img2](https://github.com/ShumAhd/Spring-framework-11/blob/main/img/2024-02-23_182049.jpg)
+
+### Файл конфиг Prometheus [prometheus.yml](https://github.com/ShumAhd/Spring-framework-11/blob/main/img/prometheus.yml)
+
+# Grafana
+![img3](https://github.com/ShumAhd/Spring-framework-11/blob/main/img/graf_5.png)
+
