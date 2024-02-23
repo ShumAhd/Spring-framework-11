@@ -6,13 +6,6 @@ spring:
 eureka:
   instance:
     hostname: localhost
-# Actuator
-info:
-  app:
-    name: "This is task service"
-    version: "1.0.0"
-    description: "This task service manages tasks!"
-
 management:
   endpoint:
     health:
